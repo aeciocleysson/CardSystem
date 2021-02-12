@@ -1,2 +1,2 @@
-# sistema-de-controle-de-cartoes
-Sistema de controle de cadastro de cartões e cracha de lojas 
+# Crad System
+Sistema de controle de cadastro de cartões e cracha das lojas da rede Supermercados BH
